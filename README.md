@@ -41,7 +41,7 @@ The dashboard provides stakeholders with a comprehensive view of sales performan
 
 ## 📈 Dashboard Preview
 
-(sales dashboard.png)
+![Sales Transaction Dashboard](sales-dashboard.png)
 
 ---
 
